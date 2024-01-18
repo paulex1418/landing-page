@@ -1,0 +1,20 @@
+a:link {
+  color: blue;
+  background-color: bisque;
+  text-decoration: none;
+}
+a:visited {
+  color: purple;
+  background-color: blanchedalmond;
+  text-decoration: dashed;
+}
+a:hover {
+  color: red;
+  background-color: aliceblue;
+  text-decoration: underline;
+}
+a:active {
+  color:rgb(60, 255, 0);
+  background-color: aliceblue;
+  text-decoration: underline;
+}
